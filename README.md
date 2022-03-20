@@ -1,6 +1,6 @@
 👋 Hi, I’m @getloh
 
-I've been studying Javascript since 2021
+I've been using Javascript since 2021
 
 
 <!---
